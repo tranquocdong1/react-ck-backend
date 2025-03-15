@@ -1,0 +1,67 @@
+[
+    {
+      "productId": "D001",
+      "name": "Kim cương tròn 1.0ct Premium",
+      "description": "Kim cương tự nhiên, cắt tròn rực rỡ, chất lượng cao, lý tưởng cho nhẫn đính hôn.",
+      "carat": 1.0,
+      "cut": "Premium",
+      "color": "D",
+      "clarity": "VS1",
+      "price": 5500,
+      "category": "diamond",
+      "stock": 5,
+      "imageUrl": "https://example.com/images/diamond-round-1ct.jpg"
+    },
+    {
+      "productId": "D002",
+      "name": "Kim cương hình vuông 0.8ct Ideal",
+      "description": "Kim cương cắt vuông hoàn hảo, màu sắc trung tính, phù hợp với trang sức hiện đại.",
+      "carat": 0.8,
+      "cut": "Ideal",
+      "color": "F",
+      "clarity": "VVS2",
+      "price": 4200,
+      "category": "diamond",
+      "stock": 8,
+      "imageUrl": "/images/kind-1.jpg"
+    },
+    {
+      "productId": "D003",
+      "name": "Kim cương giọt nước 1.5ct Very Good",
+      "description": "Kim cương hình giọt nước, độ trong cao, mang lại vẻ đẹp thanh lịch.",
+      "carat": 1.5,
+      "cut": "Very Good",
+      "color": "E",
+      "clarity": "SI1",
+      "price": 7800,
+      "category": "diamond",
+      "stock": 3,
+      "imageUrl": "/images/kind-2.jpg"
+    },
+    {
+      "productId": "D004",
+      "name": "Kim cương tròn 0.5ct Good",
+      "description": "Kim cương nhỏ gọn, giá cả phải chăng, phù hợp cho trang sức hàng ngày.",
+      "carat": 0.5,
+      "cut": "Good",
+      "color": "G",
+      "clarity": "SI2",
+      "price": 1800,
+      "category": "diamond",
+      "stock": 15,
+      "imageUrl": "/images/kind-3.jpg"
+    },
+    {
+      "productId": "D005",
+      "name": "Kim cương hình trái tim 2.0ct Premium",
+      "description": "Kim cương lớn cắt hình trái tim, dành cho những món trang sức độc đáo.",
+      "carat": 2.0,
+      "cut": "Premium",
+      "color": "D",
+      "clarity": "IF",
+      "price": 15000,
+      "category": "diamond",
+      "stock": 2,
+      "imageUrl": "/images/kind-4.jpg"
+    }
+  ]
