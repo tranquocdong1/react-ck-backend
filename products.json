@@ -2,7 +2,7 @@
   {
     "productId": "D001",
     "name": "1/4 CT. Green & White Diamond Ring in Sterling Silver",
-    "description": "This stunning ring features a captivating blend of 1/4 carat green and white diamonds, expertly set in gleaming sterling silver. Perfect for adding a touch of elegance and nature-inspired beauty to any occasion, its timeless design ensures it’s a cherished addition to your jewelry collection.",
+    "description": "This stunning ring features a captivating blend of 1/4 carat green and white diamonds, expertly set in gleaming sterling silver. Perfect for adding a touch of elegance and nature-inspired beauty to any occasion, its timeless design ensures it's a cherished addition to your jewelry collection.",
     "price": 2200,
     "category": "Rings",
     "imageUrls": [
@@ -10,7 +10,12 @@
       "/images/kind-1.jpg",
       "/images/kind-1.jpg",
       "/images/kind-1.jpg"
-    ]
+    ],
+    "createdAt": "2025-01-15T08:30:00.000Z",
+    "isNewProduct": true,
+    "isBestSeller": true,
+    "salesCount": 128,
+    "rating": 4.8
   },
   {
     "productId": "D002",
@@ -23,7 +28,12 @@
       "/images/kind-2.jpg",
       "/images/kind-2.jpg",
       "/images/kind-2.jpg"
-    ]
+    ],
+    "createdAt": "2024-12-10T10:15:00.000Z",
+    "isNewProduct": false,
+    "isBestSeller": true,
+    "salesCount": 145,
+    "rating": 4.7
   },
   {
     "productId": "D003",
@@ -36,12 +46,17 @@
       "/images/kind-3.jpg",
       "/images/kind-3.jpg",
       "/images/kind-3.jpg"
-    ]
+    ],
+    "createdAt": "2025-02-01T14:20:00.000Z",
+    "isNewProduct": true,
+    "isBestSeller": false,
+    "salesCount": 75,
+    "rating": 4.5
   },
   {
     "productId": "D004",
     "name": "1/9 ct. tw. Diamond Band in 14K White Gold Handmade",
-    "description": "This handmade 14K white gold band sparkles with 1/9 carat total weight of diamonds, offering a delicate balance of shine and subtlety. Ideal for stacking or wearing solo, it’s a versatile piece that elevates any jewelry ensemble.",
+    "description": "This handmade 14K white gold band sparkles with 1/9 carat total weight of diamonds, offering a delicate balance of shine and subtlety. Ideal for stacking or wearing solo, it's a versatile piece that elevates any jewelry ensemble.",
     "price": 900,
     "category": "Bracelet",
     "imageUrls": [
@@ -49,7 +64,12 @@
       "/images/kind-4.jpg",
       "/images/kind-4.jpg",
       "/images/kind-4.jpg"
-    ]
+    ],
+    "createdAt": "2024-12-05T09:45:00.000Z",
+    "isNewProduct": false,
+    "isBestSeller": false,
+    "salesCount": 62,
+    "rating": 4.3
   },
   {
     "productId": "D005",
@@ -62,7 +82,12 @@
       "/images/kind-5.jpg",
       "/images/kind-5.jpg",
       "/images/kind-5.jpg"
-    ]
+    ],
+    "createdAt": "2025-03-05T11:30:00.000Z",
+    "isNewProduct": true,
+    "isBestSeller": false,
+    "salesCount": 45,
+    "rating": 4.9
   },
   {
     "productId": "D006",
@@ -75,7 +100,12 @@
       "/images/kind-6.jpg",
       "/images/kind-6.jpg",
       "/images/kind-6.jpg"
-    ]
+    ],
+    "createdAt": "2024-11-20T16:40:00.000Z",
+    "isNewProduct": false,
+    "isBestSeller": true,
+    "salesCount": 210,
+    "rating": 4.6
   },
   {
     "productId": "D007",
@@ -88,7 +118,12 @@
       "/images/kind-7.jpg",
       "/images/kind-7.jpg",
       "/images/kind-7.jpg"
-    ]
+    ],
+    "createdAt": "2025-02-20T13:15:00.000Z",
+    "isNewProduct": true,
+    "isBestSeller": true,
+    "salesCount": 112,
+    "rating": 4.9
   },
   {
     "productId": "D008",
@@ -101,7 +136,12 @@
       "/images/kind-8.jpg",
       "/images/kind-8.jpg",
       "/images/kind-8.jpg"
-    ]
+    ],
+    "createdAt": "2025-01-05T15:20:00.000Z",
+    "isNewProduct": true,
+    "isBestSeller": false,
+    "salesCount": 85,
+    "rating": 4.4
   },
   {
     "productId": "D009",
@@ -114,7 +154,12 @@
       "/images/kind-9.jpg",
       "/images/kind-9.jpg",
       "/images/kind-9.jpg"
-    ]
+    ],
+    "createdAt": "2024-12-25T10:10:00.000Z",
+    "isNewProduct": false,
+    "isBestSeller": true,
+    "salesCount": 154,
+    "rating": 4.8
   },
   {
     "productId": "D0010",
@@ -127,7 +172,12 @@
       "/images/kind-10.jpg",
       "/images/kind-10.jpg",
       "/images/kind-10.jpg"
-    ]
+    ],
+    "createdAt": "2025-03-01T09:30:00.000Z",
+    "isNewProduct": true,
+    "isBestSeller": false,
+    "salesCount": 48,
+    "rating": 4.5
   },
   {
     "productId": "D0011",
@@ -140,12 +190,17 @@
       "/images/kind-11.jpg",
       "/images/kind-11.jpg",
       "/images/kind-11.jpg"
-    ]
+    ],
+    "createdAt": "2025-02-10T14:00:00.000Z",
+    "isNewProduct": true,
+    "isBestSeller": true,
+    "salesCount": 115,
+    "rating": 4.7
   },
   {
     "productId": "D0012",
     "name": "White Gold Men Necklace 14K Gold Cubic Zirconia",
-    "description": "This sleek 14K white gold men’s necklace features dazzling cubic zirconia stones, offering a bold yet refined look. Perfect for the modern man, it adds a touch of luxury and confidence to any outfit, day or night.",
+    "description": "This sleek 14K white gold men's necklace features dazzling cubic zirconia stones, offering a bold yet refined look. Perfect for the modern man, it adds a touch of luxury and confidence to any outfit, day or night.",
     "price": 350,
     "category": "Necklace",
     "imageUrls": [
@@ -153,6 +208,11 @@
       "/images/kind-12.jpg",
       "/images/kind-12.jpg",
       "/images/kind-12.jpg"
-    ]
+    ],
+    "createdAt": "2024-11-15T12:25:00.000Z",
+    "isNewProduct": false,
+    "isBestSeller": true,
+    "salesCount": 175,
+    "rating": 4.6
   }
 ]
