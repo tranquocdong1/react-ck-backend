@@ -5,10 +5,12 @@ const cartRoutes = require('./routes/cart');
 const authRoutes = require('./routes/auth');
 const orderRoutes = require('./routes/orders');
 const wishlistRoutes = require('./routes/wishlist');
+const cors = require('cors');
 
 const app = express();
 connectDB();
 
+app.use(cors({ origin: 'http://localhost:3000' })); // Cho phép frontend truy cập
 app.use(express.json());
 app.use('/api/products', productRoutes);
 app.use('/api/cart', cartRoutes);

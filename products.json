@@ -1,67 +1,158 @@
 [
-    {
-      "productId": "D001",
-      "name": "Kim cương tròn 1.0ct Premium",
-      "description": "Kim cương tự nhiên, cắt tròn rực rỡ, chất lượng cao, lý tưởng cho nhẫn đính hôn.",
-      "carat": 1.0,
-      "cut": "Premium",
-      "color": "D",
-      "clarity": "VS1",
-      "price": 5500,
-      "category": "diamond",
-      "stock": 5,
-      "imageUrl": "https://example.com/images/diamond-round-1ct.jpg"
-    },
-    {
-      "productId": "D002",
-      "name": "Kim cương hình vuông 0.8ct Ideal",
-      "description": "Kim cương cắt vuông hoàn hảo, màu sắc trung tính, phù hợp với trang sức hiện đại.",
-      "carat": 0.8,
-      "cut": "Ideal",
-      "color": "F",
-      "clarity": "VVS2",
-      "price": 4200,
-      "category": "diamond",
-      "stock": 8,
-      "imageUrl": "/images/kind-1.jpg"
-    },
-    {
-      "productId": "D003",
-      "name": "Kim cương giọt nước 1.5ct Very Good",
-      "description": "Kim cương hình giọt nước, độ trong cao, mang lại vẻ đẹp thanh lịch.",
-      "carat": 1.5,
-      "cut": "Very Good",
-      "color": "E",
-      "clarity": "SI1",
-      "price": 7800,
-      "category": "diamond",
-      "stock": 3,
-      "imageUrl": "/images/kind-2.jpg"
-    },
-    {
-      "productId": "D004",
-      "name": "Kim cương tròn 0.5ct Good",
-      "description": "Kim cương nhỏ gọn, giá cả phải chăng, phù hợp cho trang sức hàng ngày.",
-      "carat": 0.5,
-      "cut": "Good",
-      "color": "G",
-      "clarity": "SI2",
-      "price": 1800,
-      "category": "diamond",
-      "stock": 15,
-      "imageUrl": "/images/kind-3.jpg"
-    },
-    {
-      "productId": "D005",
-      "name": "Kim cương hình trái tim 2.0ct Premium",
-      "description": "Kim cương lớn cắt hình trái tim, dành cho những món trang sức độc đáo.",
-      "carat": 2.0,
-      "cut": "Premium",
-      "color": "D",
-      "clarity": "IF",
-      "price": 15000,
-      "category": "diamond",
-      "stock": 2,
-      "imageUrl": "/images/kind-4.jpg"
-    }
-  ]
+  {
+    "productId": "D001",
+    "name": "1/4 CT. Green & White Diamond Ring in Sterling Silver",
+    "description": "This stunning ring features a captivating blend of 1/4 carat green and white diamonds, expertly set in gleaming sterling silver. Perfect for adding a touch of elegance and nature-inspired beauty to any occasion, its timeless design ensures it’s a cherished addition to your jewelry collection.",
+    "price": 2200,
+    "category": "Rings",
+    "imageUrls": [
+      "/images/kind-1.jpg",
+      "/images/kind-1.jpg",
+      "/images/kind-1.jpg",
+      "/images/kind-1.jpg"
+    ]
+  },
+  {
+    "productId": "D002",
+    "name": "1/7 CT. Diamond Contour Band in 14K Gold",
+    "description": "Crafted in luxurious 14K gold, this contour band sparkles with 1/7 carat of brilliant diamonds. Its sleek, curved design hugs the finger beautifully, making it an ideal companion for an engagement ring or a standalone statement of sophistication.",
+    "price": 1750,
+    "category": "Bracelet",
+    "imageUrls": [
+      "/images/kind-2.jpg",
+      "/images/kind-2.jpg",
+      "/images/kind-2.jpg",
+      "/images/kind-2.jpg"
+    ]
+  },
+  {
+    "productId": "D003",
+    "name": "1/8 ct. Diamond Band in 14K White Gold Handmade",
+    "description": "Handcrafted with precision, this 14K white gold band showcases 1/8 carat of dazzling diamonds. Its minimalist yet elegant design exudes understated luxury, perfect for everyday wear or as a thoughtful gift for someone special.",
+    "price": 900,
+    "category": "Bracelet",
+    "imageUrls": [
+      "/images/kind-3.jpg",
+      "/images/kind-3.jpg",
+      "/images/kind-3.jpg",
+      "/images/kind-3.jpg"
+    ]
+  },
+  {
+    "productId": "D004",
+    "name": "1/9 ct. tw. Diamond Band in 14K White Gold Handmade",
+    "description": "This handmade 14K white gold band sparkles with 1/9 carat total weight of diamonds, offering a delicate balance of shine and subtlety. Ideal for stacking or wearing solo, it’s a versatile piece that elevates any jewelry ensemble.",
+    "price": 900,
+    "category": "Bracelet",
+    "imageUrls": [
+      "/images/kind-4.jpg",
+      "/images/kind-4.jpg",
+      "/images/kind-4.jpg",
+      "/images/kind-4.jpg"
+    ]
+  },
+  {
+    "productId": "D005",
+    "name": "Beautiful Traditional Handmade Silver Necklace from Thailand",
+    "description": "Inspired by Thai craftsmanship, this handmade silver necklace blends traditional artistry with modern elegance. Its intricate details and lightweight design make it a standout piece for both casual and formal wear, reflecting timeless beauty from Thailand.",
+    "price": 1900,
+    "category": "Necklace",
+    "imageUrls": [
+      "/images/kind-5.jpg",
+      "/images/kind-5.jpg",
+      "/images/kind-5.jpg",
+      "/images/kind-5.jpg"
+    ]
+  },
+  {
+    "productId": "D006",
+    "name": "Big Asymmetrical 18K Gold Cuff Bracelet",
+    "description": "Make a bold statement with this asymmetrical 18K gold cuff bracelet. Its striking, unconventional design and rich gold finish offer a perfect mix of modern flair and luxurious appeal, ideal for those who love standout jewelry.",
+    "price": 150,
+    "category": "Bracelet",
+    "imageUrls": [
+      "/images/kind-6.jpg",
+      "/images/kind-6.jpg",
+      "/images/kind-6.jpg",
+      "/images/kind-6.jpg"
+    ]
+  },
+  {
+    "productId": "D007",
+    "name": "Diamond Ring 2 carat Eternity Band",
+    "description": "Celebrate everlasting love with this breathtaking 2-carat diamond eternity band. Set in a continuous circle of sparkling diamonds, this ring radiates brilliance and luxury, making it a perfect symbol of commitment or a dazzling personal indulgence.",
+    "price": 1200,
+    "category": "Rings",
+    "imageUrls": [
+      "/images/kind-7.jpg",
+      "/images/kind-7.jpg",
+      "/images/kind-7.jpg",
+      "/images/kind-7.jpg"
+    ]
+  },
+  {
+    "productId": "D008",
+    "name": "Diamond Ring in Sterling Silver",
+    "description": "This exquisite diamond ring in sterling silver combines classic elegance with affordability. The shimmering diamond centerpiece, framed by a sleek silver band, makes it a versatile accessory for everyday wear or special occasions.",
+    "price": 1250,
+    "category": "Rings",
+    "imageUrls": [
+      "/images/kind-8.jpg",
+      "/images/kind-8.jpg",
+      "/images/kind-8.jpg",
+      "/images/kind-8.jpg"
+    ]
+  },
+  {
+    "productId": "D009",
+    "name": "Natural Pearl 10-11 mm Necklace",
+    "description": "Adorn yourself with the timeless beauty of this natural pearl necklace, featuring lustrous 10-11 mm pearls. Each pearl is carefully selected for its sheen and quality, creating a sophisticated piece that exudes grace and refinement.",
+    "price": 2000,
+    "category": "Necklace",
+    "imageUrls": [
+      "/images/kind-9.jpg",
+      "/images/kind-9.jpg",
+      "/images/kind-9.jpg",
+      "/images/kind-9.jpg"
+    ]
+  },
+  {
+    "productId": "D0010",
+    "name": "Silver Leaf Floral Pearl Crystal Earrings 1/2″ 9/16″ 12mm 14mm 16mm",
+    "description": "These enchanting silver earrings feature a delicate leaf and floral design, accented with pearls and sparkling crystals. Available in multiple sizes (1/2″, 9/16″, 12mm, 14mm, 16mm), they add a touch of whimsy and elegance to any look.",
+    "price": 450,
+    "category": "Earrings",
+    "imageUrls": [
+      "/images/kind-10.jpg",
+      "/images/kind-10.jpg",
+      "/images/kind-10.jpg",
+      "/images/kind-10.jpg"
+    ]
+  },
+  {
+    "productId": "D0011",
+    "name": "Wedding, Bridal, Rhinestone Earrings, Pearl Wedding Earrings, Gold Earrings",
+    "description": "Perfect for your special day, these gold earrings dazzle with rhinestones and pearls. Designed for brides or any celebratory occasion, their radiant shine and classic style elevate your elegance with effortless charm.",
+    "price": 400,
+    "category": "Earrings",
+    "imageUrls": [
+      "/images/kind-11.jpg",
+      "/images/kind-11.jpg",
+      "/images/kind-11.jpg",
+      "/images/kind-11.jpg"
+    ]
+  },
+  {
+    "productId": "D0012",
+    "name": "White Gold Men Necklace 14K Gold Cubic Zirconia",
+    "description": "This sleek 14K white gold men’s necklace features dazzling cubic zirconia stones, offering a bold yet refined look. Perfect for the modern man, it adds a touch of luxury and confidence to any outfit, day or night.",
+    "price": 350,
+    "category": "Necklace",
+    "imageUrls": [
+      "/images/kind-12.jpg",
+      "/images/kind-12.jpg",
+      "/images/kind-12.jpg",
+      "/images/kind-12.jpg"
+    ]
+  }
+]
